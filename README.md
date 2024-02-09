@@ -11,7 +11,7 @@
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/oussamalaaumari/) height="3" width="4"
 
 ## Languages:
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) width="40" height="40"
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) width="4" height="4"
 ![R](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg) width="40" height="40"
 ![SAS](https://www.vectorlogo.zone/logos/sas/sas-icon.svg) width="40" height="40"
 
