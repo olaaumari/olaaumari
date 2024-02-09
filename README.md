@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oussama Laaumari</h1>
 <h3 align="center">A Passionate Machine Learning Engineer Ready for Immediate Engagement: Specializing in Time Series Analysis for the Energy and Transportation Sectors</h3>
 
-    🌱 I’m currently learning conformal prediction and calibration
+🌱 I’m currently learning conformal prediction and calibration
 
-    👨‍💻 All of my projects are available at https://github.com/olaaumari?tab=repositories
+👨‍💻 All of my projects are available at https://github.com/olaaumari?tab=repositories
 
-    💬 Ask me about machine learning
+💬 Ask me about machine learning
 
-    📫 How to reach me oussama.laaumari@gmail.com
+📫 How to reach me oussama.laaumari@gmail.com
 
-    📄 Know about my experiences https://drive.google.com/file/d/1JAD1i3JQ1iSKFu-TWol8PgKPwoBKsHfe/view?usp=drive_link
+📄 Know about my experiences https://drive.google.com/file/d/1JAD1i3JQ1iSKFu-TWol8PgKPwoBKsHfe/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
