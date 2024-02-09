@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1JAD1i3JQ1iSKFu-TWol8PgKPwoBKsHfe/view?usp=drive_link)
 
 ## Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/oussamalaaumari/) height="30" width="40"
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/oussamalaaumari/) height="3" width="4"
 
 ## Languages:
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) width="40" height="40"
