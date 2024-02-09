@@ -1,5 +1,5 @@
 # Hi 👋, I'm Oussama Laaumari
-### A Passionate Machine Learning Engineer Ready for Immediate Engagement: Specializing in Time Series Analysis for the Energy and Transportation Sectors
+### A Passionate Machine Learning Engineer Ready for Immediate Engagement : Specializing in Time Series Analysis for the Energy and Transportation Sectors
 
 🌱 I’m currently learning conformal prediction and calibration
 
