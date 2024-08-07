@@ -5,7 +5,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/olaaumari?tab=repositories](https://github.com/olaaumari?tab=repositories)
 
-💬 Ask me about machine learning
+💬 Ask me about machine learning or data engineering
 
 📫 How to reach me oussama.laaumari@gmail.com
 
