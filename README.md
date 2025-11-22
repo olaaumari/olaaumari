@@ -1,4 +1,4 @@
-# Hi 👋, I'm Oussama Laaumari
+# Hi 👋, I'm Oussama
 ### A Passionate Machine Learning / Data Engineer Ready for Immediate Engagement : Specializing in Time Series Analysis for the Energy and Transportation Sectors
 
 
