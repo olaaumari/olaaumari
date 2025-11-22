@@ -7,10 +7,6 @@
 
 💬 Ask me about machine learning or data engineering
 
-📫 How to reach me oussama.laaumari@gmail.com
-
-📄 Know about my experiences [here](https://drive.google.com/file/d/1JAD1i3JQ1iSKFu-TWol8PgKPwoBKsHfe/view?usp=drive_link)
-
 Connect with me :<p> <a href="https://www.linkedin.com/in/oussamalaaumari/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
